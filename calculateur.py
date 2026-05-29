@@ -4,3 +4,4 @@ def calculer_tva(prix_ht: float) -> float:
 
 prix_ttc = calculer_tva(100)
 print(f"Total TTC: {prix_ttc}")
+
